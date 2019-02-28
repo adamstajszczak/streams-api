@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Pierwszy Stream",
+      "description": "Tak zaczynamy zabawę",
+      "id": 1
+    },
+    {
+      "title": "Nowy stream",
+      "description": "To jest nowy stream z userID cccc",
+      "id": 2
+    },
+    {
+      "title": "Zrefaktorowana strona",
+      "description": "ciekawe czy działam... ccc",
+      "userId": "116310807839988410333",
+      "id": 7
+    }
+  ]
+}
